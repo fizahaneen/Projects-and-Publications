@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.mp4
+.DS_Store
+desktop.ini
